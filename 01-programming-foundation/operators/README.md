@@ -1,6 +1,7 @@
 # Java Operators
 
-This section covers the basic operators used in Java.
+Operators are used to perform calculations, comparisons, assignments,
+and logical operations in Java.
 
 ## Topics Covered
 
@@ -10,10 +11,24 @@ This section covers the basic operators used in Java.
 - Assignment operators
 - Increment and decrement operators
 
-## Learning Goals
+## Examples
 
-- Understand how operators work in Java
-- Perform arithmetic calculations
-- Compare values
-- Combine conditions using logical operators
-- Update variable values using assignment operators
+The examples demonstrate how operators behave with different values
+and expressions.
+
+## Practice
+
+`OperatorsPractice.java` contains small programming exercises using
+operators in practical situations.
+
+## Key Learning
+
+- Arithmetic operators perform calculations.
+- Relational operators compare values.
+- Logical operators combine conditions.
+- Assignment operators modify variable values.
+- Increment and decrement operators change numeric values.
+
+## Learning Approach
+
+Understand → Write → Run → Observe → Practice
