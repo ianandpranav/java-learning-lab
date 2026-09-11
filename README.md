@@ -1,228 +1,99 @@
-# Java Learning Lab ☕
+# Java Learning Lab
 
-A structured, hands-on journey through Java programming, problem solving,
-Object-Oriented Programming, Data Structures & Algorithms, and real-world
-Java development.
+This repository contains my Java learning journey, from programming
+fundamentals to Object-Oriented Programming, DSA and practical projects.
 
-This repository documents my continuous learning and practical implementation
-of Java concepts through examples, exercises, problem-solving practice, and
-projects.
+I am using this repository to practice concepts by writing and running
+code rather than only studying theory.
 
----
+## Topics
 
-## 🎯 Learning Goals
+### 01 - Programming Foundation
 
-- Build strong Java programming fundamentals
-- Develop logical and problem-solving skills
-- Understand Object-Oriented Programming deeply
-- Learn Java collections and exception handling
-- Practice Data Structures and Algorithms
-- Write clean, readable, and maintainable Java code
-- Build real-world Java applications
-- Prepare for technical interviews and software development roles
-
----
-
-## 🗺️ Learning Roadmap
-
-### 01. Programming Foundation
-
-Core Java programming concepts and programming fundamentals.
-
-- Variables
-- Data Types
+- Variables and data types
 - Operators
-- Input & Output
-- Type Casting
-- Conditional Statements
+- Input and output
+- Type casting
+- Conditions
 - Loops
 - Methods
 - Arrays
 - Strings
-- Problem Analysis
-- Algorithmic Thinking
-- Dry Runs
-- Debugging
+- Basic problem solving
 
-**Status:** In Progress 🚧
+### 02 - Object-Oriented Programming
 
----
-
-### 02. Object-Oriented Programming
-
-Understanding how Java applications are designed using objects and
-object-oriented principles.
-
-- Classes and Objects
+- Classes and objects
 - Constructors
-- `this` keyword
+- this keyword
 - Encapsulation
 - Inheritance
 - Polymorphism
 - Abstraction
 - Interfaces
-- Method Overloading
-- Method Overriding
-- Access Modifiers
-- `static` and `final`
-- Composition and Association
+- Method overloading and overriding
 
-**Status:** In Progress 🚧
+### 03 - Exception Handling
 
----
-
-### 03. Exception Handling
-
-- Exceptions
 - try-catch
 - finally
-- throw
-- throws
-- Custom Exceptions
-- Exception hierarchy
-- Best practices
+- throw and throws
+- Custom exceptions
 
-**Status:** Planned 📌
+### 04 - Collections
 
----
-
-### 04. Java Collections
-
-- List
 - ArrayList
 - LinkedList
-- Set
 - HashSet
-- TreeSet
-- Map
 - HashMap
+- TreeSet
 - TreeMap
-- Queue
-- Deque
-- Iterators
-- Comparable
-- Comparator
+- Queue and Deque
+- Comparable and Comparator
 
-**Status:** Planned 📌
+### 05 - Advanced Java
 
----
-
-### 05. Advanced Java Concepts
-
-- Wrapper Classes
-- StringBuilder
-- StringBuffer
-- Enums
 - Generics
-- Lambda Expressions
-- Functional Interfaces
+- Lambda expressions
+- Functional interfaces
 - Stream API
-- Optional
-- Date and Time API
-- File Handling
+- File handling
 - Multithreading
-- Concurrency
+- Date and Time API
 
-**Status:** Planned 📌
+### 06 - DSA
 
----
-
-### 06. Data Structures & Algorithms
-
-Building strong problem-solving skills using Java.
-
-- Time & Space Complexity
-- Arrays
-- Strings
+- Arrays and strings
 - Searching
 - Sorting
 - Recursion
-- Linked Lists
-- Stack
-- Queue
+- Linked lists
+- Stack and queue
 - Hashing
 - Trees
-- Binary Search Trees
-- Heaps
 - Graphs
-- Dynamic Programming
-- Greedy Algorithms
+- Dynamic programming
 
-**Status:** Planned 📌
+### 07 - Problem Solving
 
----
+Regular practice of programming and DSA problems to improve
+logic, problem-solving and coding skills.
 
-### 07. Problem Solving
+### 08 - Projects
 
-Regular practice focused on developing independent programming logic.
+Practical Java projects to apply the concepts learned throughout
+the journey.
 
-- Pattern Problems
-- Mathematical Problems
-- Array Problems
-- String Problems
-- Searching & Sorting
-- Recursion Problems
-- DSA Problems
-- Interview-style Problems
-
-**Status:** Planned 📌
-
----
-
-### 08. Real-World Java Development
-
-Applying Java knowledge to practical software development.
-
-- Console Applications
-- File-based Applications
-- Database Connectivity
-- JDBC
-- REST APIs
-- Spring Framework
-- Spring Boot
-- SQL Integration
-- Backend Development
-- Testing
-- Application Architecture
-
-**Status:** Planned 📌
-
----
-
-### 09. Projects
-
-Concepts learned throughout the journey will be applied to practical
-projects.
-
-Projects will gradually increase in complexity, from beginner console
-applications to real-world Java backend applications.
-
-**Status:** Planned 📌
-
----
-
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 java-learning-lab/
 │
 ├── 01-programming-foundation/
-│   ├── variables/
-│   ├── operators/
-│   ├── input-output/
-│   └── type-casting/
-│
 ├── 02-oop/
-│   └── classes-objects/
-│
 ├── 03-exception-handling/
-│
 ├── 04-collections/
-│
 ├── 05-advanced-java/
-│
 ├── 06-dsa/
-│
 ├── 07-problem-solving/
-│
 └── 08-projects/
